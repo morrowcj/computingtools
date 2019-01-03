@@ -1,3 +1,5 @@
+This is a fork of https://github.com/cecileane/computingtools
+
 ## Computing Tools for Data Analytics
 course website, UW-Madison, Statistics 679, Fall 2016
 
